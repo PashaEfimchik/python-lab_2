@@ -1,0 +1,17 @@
+(dp0
+Vtype
+p1
+Vfunction
+p2
+sVname
+p3
+V<lambda>
+p4
+sVcode
+p5
+Vlambda x: x * x
+p6
+sVglobals
+p7
+(dp8
+s.
