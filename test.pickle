@@ -1,0 +1,28 @@
+(dp0
+Vattrs
+p1
+(dp2
+Vage
+p3
+I19
+sVgender
+p4
+Vfemale
+p5
+sVname
+p6
+VPavel
+p7
+ssVtype
+p8
+Vclass object
+p9
+sVname
+p10
+VPerson
+p11
+sVcode
+p12
+Vclass Person:\u000a    def __init__(self, name, age):\u000a        self.name = name\u000a        self.age = age\u000a        self.gender = "female"\u000a\u000a    def set_name(self, name):\u000a        self.name = name\u000a
+p13
+s.

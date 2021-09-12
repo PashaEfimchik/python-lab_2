@@ -1,0 +1,9 @@
+{'attrs':{'age':19, 'gender':'female', 'name':'Pavel'}, 'type':'class object', 'name':'Person', 'code':'class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+        self.gender = "female"
+
+    def set_name(self, name):
+        self.name = name
+'}
